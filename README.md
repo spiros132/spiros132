@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm **@spiros132**
+
+📚 I'm currently studying **CSC (Computer Systems and Cybersecurity) in Chalmers University of Technology**
+
+📫 How to reach me: **spiros.siarapis@gmail.com**
+
 <!--
 **spiros132/spiros132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
