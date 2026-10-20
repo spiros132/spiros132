@@ -1,10 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Spiros
 
-I'm **@spiros132**
+### I'm a software engineer, specialising in Cybersecurity and Operating Systems.
 
-📚 I'm currently studying **CSC (Computer Systems and Cybersecurity) in Chalmers University of Technology**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiros132&show_icons=true&locale=en" alt="spiros132" /></p>
 
-📫 How to reach me: **spiros.siarapis@gmail.com**
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiros132&show_icons=true&locale=en&layout=compact" alt="spiros132" />
+</p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiros132&" alt="spiros132" /></p>
+
+
+### Toolbox
+`C` | `Rust` | `Python` | `C++` | `Web`
+
+### Say hi
+
+Always happy to talk about any technical or non-technical project!
+
+- Email: [spiros.siarapis@gmail.com](mailto:spiros.siarapis@gmail.com)
+- LinkedIn: [Spyridon Siarapis](https://www.linkedin.com/in/spyridon-siarapis-b9028419b/?isSelfProfile=true)
+
 
 <!--
 **spiros132/spiros132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
