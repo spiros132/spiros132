@@ -2,15 +2,7 @@
 
 ### I'm a software engineer, specialising in Cybersecurity and Operating Systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spiros132&show_icons=true&locale=en" alt="spiros132" /></p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spiros132&show_icons=true&locale=en&layout=compact" alt="spiros132" />
-</p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spiros132&" alt="spiros132" /></p>
-
 
 ### Toolbox
 `C` | `Rust` | `Python` | `C++` | `Web`
